@@ -2,7 +2,7 @@
 
 If you are writing userscripts for [Tampermonkey](http://tampermonkey.net/), [Greasemonkey](https://wiki.greasespot.net/Main_Page) etc., you might have run into the situation, where you wanted a certain function in one tab to be informed instantly, when a value in another tab changed.
 
-Tampermonkey introduced a function that helps you with the problem, and while the docs of tampermonkey are //suboptimal//, I wrote this script to show, how it works.
+Tampermonkey introduced a function that helps you with the problem, and while the docs of tampermonkey are *suboptimal*, I wrote this script to show, how it works.
 
 ### after you installed the script in Tampermonkey
 
