@@ -10,7 +10,7 @@ Tampermonkey introduced a function that helps you with the problem, and while th
 1. open the webconsole in this tab
 1. open another tab and webconsole and load https://www.eff.org in this tab
 
-After your done with the modals  in both tabs, compare the output of the console ...
+After you're done with the modals  in both tabs, compare the output of the console ...
 
 #### Console-Output on eff-page:
 ![Console-Output on eff-page](./images/eff.jpg)
